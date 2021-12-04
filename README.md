@@ -1,6 +1,7 @@
-# LuxOutfit
-- See [LICENSE](/LICENSE)
-
+# <p align="center"> LuxOutfit </P>
+## <p align="center"> •  Ui / Ux [DESIGN](https://www.figma.com/community/file/1049000813913600984/LuxOutfit---eCommerce-App-Ui-%40rahulsharmadev)</a> • See [LICENSE](/LICENSE)
+</p>
+>>>>>>> beta
 As online sales are constantly growing, the retail field strives to offer customers the best deals and user-friendly interfaces. Today e-commerce mobile applications are leading worldwide to meet the demand of the market, increase sales, and help in customer support.
 
 This e-commerce application was designed by Rahul Sharma using Flutter for Coding and figma for Design, If you’re looking for an e-commerce Code or UI/UX template as an inspiration or base for your new design, this is for you
